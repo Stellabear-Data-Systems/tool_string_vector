@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Stellabear-Data-Systems/tool_string_vector">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" width="555" height="73" alt="Logo" >
   </a>
 
 <h3 align="center">Wireline Tool-String Visualizer</h3>
@@ -77,9 +77,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Oilfield services often must provide the client with an image of the tools string or "BHA." This tool is meant to create a proffesional and simple to use resource for that process. Hopefully, the lessons learned from this project will be utilized in future projects.
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description` -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -123,7 +125,7 @@ This is an example of how to list things you need to use the software and how to
    const API_KEY = 'ENTER YOUR API';
    ``` -->
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#top">back to top</a>)</p> -->
 
 
 <!-- ROADMAP -->
@@ -170,8 +172,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
 Project Link: [https://github.com/Stellabear-Data-Systems/tool_string_vector](https://github.com/Stellabear-Data-Systems/tool_string_vector)
 
