@@ -1,0 +1,23 @@
+{
+  "name": "tool_string_prototype",
+  "version": "0.0.1",
+  "description": "Wireline Tool-String Graphic Interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stellabear-Data-Systems/tool_string_vector.git"
+  },
+  "keywords": [
+    "wireline",
+    "oilfield"
+  ],
+  "author": "Brian Purnell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Stellabear-Data-Systems/tool_string_vector/issues"
+  },
+  "homepage": "https://github.com/Stellabear-Data-Systems/tool_string_vector#readme"
+}
